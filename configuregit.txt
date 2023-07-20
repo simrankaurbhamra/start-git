@@ -1,0 +1,1 @@
+commands to configure git:- 1. git config --global user.name user.name
